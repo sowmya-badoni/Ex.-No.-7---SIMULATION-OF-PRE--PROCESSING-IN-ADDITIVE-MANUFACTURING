@@ -1,5 +1,5 @@
-# Ex. No.  - SIMULATION OF PRE PROCESSING IN ADDITIVE MANUFACTURING
-### DATE: 
+# Ex. No. 6.1 - SIMULATION OF PRE PROCESSING IN ADDITIVE MANUFACTURING
+### DATE: 01/05/2024
 ## AIM:
 ### To simulate the Pre Processing for 3D printing.
 
@@ -39,14 +39,15 @@
 ### ●	If the user follows an incorrect sequence then a pop-up will appear on the screen showing the name of the process to be selected.
 
 ## OUTPUT:
-![123_1](https://github.com/Sellakumar1987/Ex.-No.-7---SIMULATION-OF-PRE--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/113594316/ec8dafd7-cb7c-4a5b-936c-41e86a32a9da)
-![123_2](https://github.com/Sellakumar1987/Ex.-No.-7---SIMULATION-OF-PRE--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/113594316/c071a941-e5b4-4b31-af63-5f9fe08cd0fb)
-![123_3](https://github.com/Sellakumar1987/Ex.-No.-7---SIMULATION-OF-PRE--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/113594316/ebb3a944-eeb0-45e8-9841-d58997840c54)
+![329833616-4913b167-d9a6-4f47-9d16-161aa5cd620d](https://github.com/sowmya-badoni/Ex.-No.-7---SIMULATION-OF-PRE--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/152136324/3a8bc106-0361-42fe-9a05-d213804a86dd)
+![329833637-ca2bb975-ffde-4868-8cb1-0daff1de1909](https://github.com/sowmya-badoni/Ex.-No.-7---SIMULATION-OF-PRE--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/152136324/18c47c52-a4eb-41bb-bd74-703e2e6b3825)
+![329833651-53511a9e-b14b-4f66-839d-d591d8bba6d3](https://github.com/sowmya-badoni/Ex.-No.-7---SIMULATION-OF-PRE--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/152136324/9129c118-568e-49c1-989c-50630b27a31d)
 
 ## Output:
+![329833655-b3333bf4-ab78-4f3e-aa38-f91598724013](https://github.com/sowmya-badoni/Ex.-No.-7---SIMULATION-OF-PRE--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/152136324/85d9da27-978b-42c2-8c93-a01fa1a3e592)
 
-### Name:
-### Register Number:
+### Name:SOWMYA BADONI
+### Register Number:212223230211
 
 ## Result: 
 ### Thus the simulation on the Preprocessing in additive manufacturing is completed.
